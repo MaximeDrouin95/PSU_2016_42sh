@@ -1,0 +1,8 @@
+alias ll='ls -l'
+alias la='ls -la'
+alias ne='emacs'
+alias ls='ls -N --color=tty -T 0'
+alias j='jobs'
+alias emacs='emacs -nw'
+alias ne='emacs ptdr'
+alias sound='alsamixer'
